@@ -58,7 +58,4 @@ Trials per configuration         : 5
 ![config1_lifetime](data/config3_timetaken.png)
 
 ## Team members / Collaborators
-- [Amal](https://github.com/amalshaji)
-- [Devi](https://github.com/Devi-DivyaSri)
-- [Naveen](https://github.com/naveenb11)
-- [Jeevan](https://github.com/G1Sai)
+- [TAPASWINI MISHRA](https://github.com/tapaswini-1234)
